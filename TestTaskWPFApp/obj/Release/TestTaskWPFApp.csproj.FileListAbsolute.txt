@@ -1,0 +1,15 @@
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\bin\Release\TestTaskWPFApp.exe.config
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\bin\Release\TestTaskWPFApp.exe
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\bin\Release\TestTaskWPFApp.pdb
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\TestTaskWPFApp.csprojAssemblyReference.cache
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\MainWindow.g.cs
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\App.g.cs
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\TestTaskWPFApp_MarkupCompile.cache
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\TestTaskWPFApp_MarkupCompile.lref
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\MainWindow.baml
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\TestTaskWPFApp.g.resources
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\TestTaskWPFApp.Properties.Resources.resources
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\TestTaskWPFApp.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\TestTaskWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\TestTaskWPFApp.exe
+C:\Users\Любовь\Desktop\Lesson\MailSender\TestTaskWPFApp\obj\Release\TestTaskWPFApp.pdb

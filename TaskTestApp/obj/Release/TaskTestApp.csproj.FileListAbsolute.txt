@@ -1,0 +1,7 @@
+C:\Users\Любовь\Desktop\Lesson\MailSender\TaskTestApp\bin\Release\TaskTestApp.exe.config
+C:\Users\Любовь\Desktop\Lesson\MailSender\TaskTestApp\bin\Release\TaskTestApp.exe
+C:\Users\Любовь\Desktop\Lesson\MailSender\TaskTestApp\bin\Release\TaskTestApp.pdb
+C:\Users\Любовь\Desktop\Lesson\MailSender\TaskTestApp\obj\Release\TaskTestApp.csprojAssemblyReference.cache
+C:\Users\Любовь\Desktop\Lesson\MailSender\TaskTestApp\obj\Release\TaskTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Lesson\MailSender\TaskTestApp\obj\Release\TaskTestApp.exe
+C:\Users\Любовь\Desktop\Lesson\MailSender\TaskTestApp\obj\Release\TaskTestApp.pdb
